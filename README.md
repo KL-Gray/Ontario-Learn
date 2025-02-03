@@ -1,5 +1,6 @@
 # Ontario-Learn
  Repository of assignments for Python II classes
+
 Assignment 5 - a program to play the card game blackjack.
        The object of the game is to get a score as close as possible to 21, without going over.
 	   At the start of each round, you will be told one of the two cards the dealer holds, as well as both of your cards and your current score.
